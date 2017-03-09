@@ -15,6 +15,7 @@ git init
 git remote add [remote-name] [url]
 例：git remote add origin https://github.com/you/yourpro.git
 origin：相当于该远程仓库的别名
+```
 
 * 从本地仓库中删除
 
