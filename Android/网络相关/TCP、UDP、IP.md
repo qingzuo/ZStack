@@ -7,9 +7,11 @@ TCP/IP Ð­ÒéÕ»Ö÷Òª·ÖÎªËÄ²ã: Ó¦ÓÃ²ã¡¢´«Êä²ã¡¢ÍøÂç²ã¡¢Êý¾ÝÁ´Â·²ã, Ã¿²ã¶¼ÓÐÏàÓ¦µÄÐ­Ò
 TCP Ð­ÒéÊÇÃæÏòÁ¬½Ó¡¢±£Ö¤¸ß¿É¿¿ÐÔ (Êý¾ÝÎÞ¶ªÊ§¡¢Êý¾ÝÎÞÊ§Ðò¡¢Êý¾ÝÎÞ´íÎó¡¢Êý¾ÝÎÞÖØ¸´µ½´ï) ´«Êä²ãÐ­Òé¡£
 
 ###Èý´ÎÎÕÊÖ½¨Á¢Á¬½Ó
+½¨Á¢Á¬½Ó
 
 
 ###ËÄ´Î»ÓÊÖ¶Ï¿ªÁ¬½Ó
+¶Ï¿ªÁ¬½Ó
 
 
 
@@ -38,8 +40,8 @@ TCPÓëUDPµÄÇø±ð
 		<td>UDPÓÐ±ß½ç</td>
 	</tr>
 	<tr>
-		<td>TCPËÙ¶È¿ì</td>
-		<td>UDPËÙ¶ÈÂý</td>
+		<td>TCPËÙ¶ÈÂý</td>
+		<td>UDPËÙ¶È¿ì</td>
 	</tr>
 	<tr>
 		<td>TCPÃæÏò×Ö½ÚÁ÷</td>
