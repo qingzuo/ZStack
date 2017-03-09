@@ -108,6 +108,6 @@ Socket.receive(packet);
 ```
 
 参考：
-[Socket 通信原理和实践](http://blog.csdn.net/jiajia4336/article/details/8798421)
-[Github-LearningNotes](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/Network/Socket.md)
-[百度百科-Socket](http://baike.baidu.com/item/socket/281150)
+* [Socket 通信原理和实践](http://blog.csdn.net/jiajia4336/article/details/8798421)
+* [Github-LearningNotes](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/Network/Socket.md)
+* [百度百科-Socket](http://baike.baidu.com/item/socket/281150)
